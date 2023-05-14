@@ -1,8 +1,32 @@
+
+//What is Git?
+Git is a version control system.
+
+
+//what are remote repo and local repo and working directory?
+Remote repo - located online.
+              
+Local repo - located in your local machine.
+           - copy of your remote repo.
+           
+Working Dir -  its a directory in your local machine.
+            -  Copy of your all local repo files.
+            
+            
+//What happens when i do "git add." and "commit" ?
+       - git add . -> will add the changes made in the file to staging area(temporary area) to review & prepare the files before committing them into local repo.
+       
+       - git commit -> To permanently save the changes to the local repository, you will need to use the git commit command after adding the changes to the staging area.
+
+
+
+
 //How to do commit?
 
 //////////////I created this file before commit and here is the flow:
 1. when you -> add . -> this adds the entire project files to the staged changes.
 2. When you -> add <file> -> this adds only the changes you made in that file to staged changes.
+
 
 
 //How to take pull?
