@@ -2,4 +2,4 @@
 
 This is a JS practise repo. We have stored here the re-usable components like carousel, accordian, etc,
 
-git add command added now and to be added if any updates.
+git add command added now .
