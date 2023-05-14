@@ -1,0 +1,6 @@
+//How to do commit?
+
+I created this file before commit and here is the flow:
+1. when you add . -> this adds the entire project files to the staged changes.
+
+
