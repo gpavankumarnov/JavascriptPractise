@@ -5,7 +5,7 @@
 2. When you -> add <file> -> this adds only the changes you made in that file to staged changes.
 
 
-//////////////How to take pull?
+//How to take pull?
 
 //////////////To take a pull, use command -> git pull, this will do two actions.
 2. git pull 
