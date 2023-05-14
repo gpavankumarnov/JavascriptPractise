@@ -39,6 +39,14 @@ Working Dir -  its a directory in your local machine.
         *Imp - make sure not to have any files unstaged in your local. if so git pull will overwrite all and replace them with remote files to local repo.
 
 //merge conflict understanding from backend side whats running!
+1. initially lets say :
+                            - some developers pushed their changes on the file to github.
+                            - And you didn't taken any latest pull of git remote repo.
+                            - now as one of a developer, you have done the changes on the same file in your local repo.
+                           Think from whats happening on the local repo.
+
+                           so as i didn't take any latest pull and i am trying to add changes to the file and committing the changes - now my changes after committing will reflect and permanently save in the local repo.
+
 
 
 //When will merge conflict comes into picture?
