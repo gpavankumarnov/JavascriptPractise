@@ -1,5 +1,5 @@
 //What is Git?
-Git is a version control system.
+Git is a version control system. It tracks the latest commits, updates everything.
 
 
 this is the file of git
