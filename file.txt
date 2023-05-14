@@ -1,6 +1,14 @@
 //How to do commit?
 
-I created this file before commit and here is the flow:
-1. when you add . -> this adds the entire project files to the staged changes.
+//////////////I created this file before commit and here is the flow:
+1. when you -> add . -> this adds the entire project files to the staged changes.
+2. When you -> add <file> -> this adds only the changes you made in that file to staged changes.
 
 
+//////////////How to take pull?
+
+//////////////To take a pull, use command -> git pull, this will do two actions.
+2. git pull 
+     - git fetches -> it will download all the changes from the remote repo to local repo.
+     - git merges -> it will merge the remote repo to local repo.
+        *Imp - make sure not to have any files unstaged in your local. if so git pull will overwrite all and replace them with remote files to local repo.
