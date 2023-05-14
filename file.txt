@@ -12,3 +12,4 @@
      - git fetches -> it will download all the changes from the remote repo to local repo.
      - git merges -> it will merge the remote repo to local repo.
         *Imp - make sure not to have any files unstaged in your local. if so git pull will overwrite all and replace them with remote files to local repo.
+
