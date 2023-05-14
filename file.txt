@@ -45,7 +45,7 @@ Working Dir -  its a directory in your local machine.
                             - now as one of a developer, you have done the changes on the same file in your local repo.
                            Think from whats happening on the local repo.
 
-                           so as i didn't take any latest pull and i am trying to add changes to the file and committing the changes - now my changes after committing will reflect and permanently save in the local repo.
+                           so as i didn't take any latest pull and i am trying to add changes to the file and committing the changes - now my changes after committing will reflects and permanently save in the local repo.
 
 
 
