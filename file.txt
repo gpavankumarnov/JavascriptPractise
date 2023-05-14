@@ -38,6 +38,7 @@ Working Dir -  its a directory in your local machine.
      - git merges -> it will merge the remote repo to local repo.
         *Imp - make sure not to have any files unstaged in your local. if so git pull will overwrite all and replace them with remote files to local repo.
 
+//merge conflict understanding from backend side whats running!
 
 
 //When will merge conflict comes into picture?
